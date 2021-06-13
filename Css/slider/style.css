@@ -1,3 +1,38 @@
 img {
     height: 800px;
 }
+
+.Slides-text {
+    position: absolute;
+    top: 330px;
+    right: 244px;
+}
+
+.Slides-text h3 {
+    font-size: 1.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: inherit;
+    color: red;
+}
+
+.Slides-text h1{
+    text-transform: uppercase;
+    font-family: initial;
+    color: blue;
+    font-weight: 800;
+}
+
+.order-now{
+    width: 163px !important;
+    margin-left: 158px !important;
+    background: cornflowerblue !important;
+    border-radius: 15px !important;
+    border-color: white !important;
+}
+
+.order-now:hover{
+    background: rgb(3, 61, 168) !important;
+    border-color: white !important;
+  
+}
